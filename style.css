@@ -1,0 +1,29 @@
+
+.main{
+    background-color: black; 
+    height: 380px;
+    width: 290px;
+     margin-top: 200px;
+      margin-left: 600px;
+      border-radius: 10px;
+      padding: 20px;
+    
+    }
+    #inputbox{
+    height: 42px;
+    width: 285px;
+     margin-top:40px;
+    background-color: rgb(249, 249, 249);
+    border-radius: 10px;
+    border-color: rgb(249, 249, 249);
+    
+}
+    .row button{
+         background-color: rgb(115, 105, 105); 
+          height: 50px;
+          width: 50px;
+           border-radius:4px; 
+            margin-top: 10px;
+
+    margin-left: 15px;
+    } 
